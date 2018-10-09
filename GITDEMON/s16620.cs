@@ -6,5 +6,10 @@ namespace GITDEMON
 {
     class s16620
     {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hell World!");
+        }
     }
+
 }
