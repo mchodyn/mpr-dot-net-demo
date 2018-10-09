@@ -8,7 +8,7 @@ namespace GITDEMON
         {
             Console.WriteLine("Hello World!");
             Console.ReadKey();
-            gleglebegle
+            
         }
     }
 }
